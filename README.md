@@ -1,16 +1,18 @@
 ### Hi there 👋
+<hr />
 
-<!--
-**devndive/devndive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Yann, diving instructor and software engineer.
 
-Here are some ideas to get you started:
+Currently working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/serverless.svg" /> <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apollographql.svg" /> <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
+
+
+How to reach me:
+
+<a href="https://twitter.com/devndive">
+  <img align="left" alt="Yann Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/yaduv/">
+  <img align="left" alt="Yanns LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
